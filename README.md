@@ -38,7 +38,7 @@ Analyzed 2000 e-commerce products to uncover pricing, brand performance, custome
 
 ## 📁 Files
 - `ecommerce_product_analysis.twbx` - Tableau Workbook
-- `ecommerce_dashboard_final.png` - Dashboard Image
+-[Dashboard] (`ecommerce_dashboard_final.png`) - Dashboard Image
 - `E-commerce Dataset - 2000 Products.
 
 ---
